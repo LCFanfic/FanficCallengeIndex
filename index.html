@@ -1,9 +1,9 @@
 ---
 layout: default-layout
 ---
-{{ site.challenges }}
+<pre>{{ site.data | jsonify | escape }}</pre>
 <ul>   
-    {% for challenge in site.challenges %}
+    {% for challenge in site.data.challenges %}
         <li>
         <a href="{{ challenge.post }}">{{ challenge.name }}</a> by {{ challenge.challenger }} on {{ challenge.date}}
         <ul>
