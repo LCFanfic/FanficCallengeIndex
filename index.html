@@ -1,7 +1,8 @@
 ---
 layout: default-layout
 ---
-<ul>
+{{ site.challenges }}
+<ul>   
     {% for challenge in site.challenges %}
         <li>
         <a href="{{ challenge.post }}">{{ challenge.name }}</a> by {{ challenge.challenger }} on {{ challenge.date}}
