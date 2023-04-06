@@ -55,4 +55,3 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
   - _layouts/
-#  - _data/
