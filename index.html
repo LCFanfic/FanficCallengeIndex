@@ -1,0 +1,17 @@
+---
+layout: default-layout
+---
+<ul>
+    {% for challenge in site.challenges %}
+        <li>
+        <a href="{{ challenge.post }}">{{ challenge.name }}</a> by {{ challenge.challenger }} on {{ challenge.date}}
+        <ul>
+            {% for story in challenge.stories %}
+            <li>
+                <a href="{{ story.toc-gfic }}">{{ story.title }}</a> by {{ story.author }}
+            </li>
+            {% endfor %}
+        </ul>
+        </li>
+    {% endfor %}
+</ul>
