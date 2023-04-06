@@ -1,38 +1,38 @@
 {
-  challenges: [
+  "challenges": [
     {
-      name: "Write 824 words",
-      challenger: "SneakyFoLC",
-      challengedate: "2022-07-01",
-      post: "https://www.lcficmbs.com/ubb/ubbthreads.php/topics/345678/"
-      stories: [
+      "name": "Write 824 words",
+      "challenger": "SneakyFoLC",
+      "challenge-date": "2022-07-01",
+      "post": "https://www.lcficmbs.com/ubb/ubbthreads.php/topics/345678/"
+      "stories": [
         {
-          title: "My 824 words",
-          author: "Clever FoLC",
-          tocgfic: "https://www.lcficmbs.com/ubb/ubbthreads.php/topics/123456/the-title-if-you-want",
+          "title": "My 824 words",
+          "author": "Clever FoLC",
+          "toc-gfic": "https://www.lcficmbs.com/ubb/ubbthreads.php/topics/123456/the-title-if-you-want",
         },
         {
-          title: "The Dirty Dozen",
-          author: "Purple FoLC",
-          tocgfic: "https://www.lcficmbs.com/ubb/ubbthreads.php/topics/123456/the-title-if-you-want",
-          tocnfic: "https://www.lcficmbs.com/ubb/ubbthreads.php/topics/234567",
+          "title": "The Dirty Dozen",
+          "author": "Purple FoLC",
+          "toc-gfic": "https://www.lcficmbs.com/ubb/ubbthreads.php/topics/123456/the-title-if-you-want",
+          "toc-nfic": "https://www.lcficmbs.com/ubb/ubbthreads.php/topics/234567",
         }
       ]
     },
     {
-      name: "2023 Kerth Challenge #1: Write a story about a Met Star reporter winning a Kerth instead of Lois",
-      challenger: "KCom",
-      challengedate: "2023-01-03",
-      stories: [
+      "name": "2023 Kerth Challenge #1: Write a story about a Met Star reporter winning a Kerth instead of Lois",
+      "challenger": "KCom",
+      "challenge-date": "2023-01-03",
+      "stories": [
         {
-          title: "Lois is not the winner",
-          author: "Evil FoLC",
-          tocgfic: "https://www.lcficmbs.com/ubb/ubbthreads.php/topics/246800",
+          "title": "Lois is not the winner",
+          "author": "Evil FoLC",
+          "tocgfic": "https://www.lcficmbs.com/ubb/ubbthreads.php/topics/246800",
         },
         {
-          title: "Lois needs comfort",
-          author: "Purple FoLC",
-          tocnfic: "https://www.lcficmbs.com/ubb/ubbthreads.php/topics/341234",
+          "title": "Lois needs comfort",
+          "author": "Purple FoLC",
+          "toc-nfic": "https://www.lcficmbs.com/ubb/ubbthreads.php/topics/341234",
         }
       ]
     }
